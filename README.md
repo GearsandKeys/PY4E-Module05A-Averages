@@ -15,3 +15,9 @@ Invalid input
 Enter a number: 7
 Enter a number: done
 16 3 5.333333333333333
+
+## Note: The end  of the code should look something like this:
+```
+print(total, count, average)
+```
+## And make sure to comment the call to your function when you sync your changes, or your test will fail
