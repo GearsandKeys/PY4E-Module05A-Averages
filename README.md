@@ -20,5 +20,3 @@ Enter a number: done
 ```
 print(total, count, average)
 ```
-## And make sure to comment out the call to your function ```(averages())``` when you sync your changes, or your test will fail
-averages() should look like # averages()

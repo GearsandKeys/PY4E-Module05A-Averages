@@ -4,7 +4,8 @@ def averages():
 
 
 
-    #Note, the end should look something like this:
+    
+    #Note: the end should look something like this:
     #print(total, count, average)
 
-averages() #Comment this out before saving, or your test will fail. 
+averages() #Do NOT comment this out or your test will fail since this will 'call' your function.
